@@ -1,4 +1,4 @@
-# google-fonts-for-widgetizer
+# Google fonts for Widgetizer
 
 A utility tool for managing Google Fonts in the Widgetizer project. This script helps you add Google Fonts to the `fonts.json` configuration file by automatically extracting font metadata from the Google Fonts API.
 
